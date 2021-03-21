@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09eafd15-dfe3-471c-8a21-8a29dc87fff8" name="Default Changelist" comment="" />
+    <list default="true" id="09eafd15-dfe3-471c-8a21-8a29dc87fff8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/belajar-maven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/belajar-maven.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/evan/learning/OneToOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/evan/learning/OneToOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/belajar-maven-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/belajar-maven-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/evan/learning/OneToOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/evan/learning/OneToOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.evan.learning.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.evan.learning.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.evan.learning.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.evan.learning.AppTest.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1oSPyk6GwJuH5oEyseCpjhcHEsr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
@@ -95,6 +114,10 @@
       <workItem from="1614482386927" duration="1759000" />
       <workItem from="1614484189449" duration="1787000" />
       <workItem from="1614486000970" duration="1514000" />
+      <workItem from="1615692451193" duration="1623000" />
+      <workItem from="1615694105107" duration="635000" />
+      <workItem from="1616295949527" duration="983000" />
+      <workItem from="1616297796823" duration="315000" />
     </task>
     <servers />
   </component>
@@ -102,25 +125,25 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1614487515601">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1615693683893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614487515601" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1614487515601">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615693683893" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1615693683893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614487515601" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1614487515601">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615693683893" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1615693683893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614487515601" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1614487515601">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615693683893" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1615693683893">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614487515601" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1614486034015">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615693683893" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1616297820368">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1614486034015" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1616297820368" />
   </component>
 </project>

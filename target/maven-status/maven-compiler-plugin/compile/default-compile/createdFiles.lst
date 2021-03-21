@@ -1,1 +1,4 @@
 com\evan\learning\App.class
+com\evan\learning\hibernate\model\onetoone\Identity.class
+com\evan\learning\OneToOne.class
+com\evan\learning\hibernate\model\onetoone\Person.class

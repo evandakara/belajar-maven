@@ -2,7 +2,6 @@ package com.evan.learning;
 
 import com.evan.learning.hibernate.model.onetoone.Identity;
 import com.evan.learning.hibernate.model.onetoone.Person;
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
